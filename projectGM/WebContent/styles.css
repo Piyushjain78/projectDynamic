@@ -1,0 +1,48 @@
+@CHARSET "ISO-8859-1";
+#p01{
+	background-color: #4CAF50;
+	font-size: 14px;
+	border: 2px Solid Powderblue;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    padding: 5px 15px;
+}
+#p02{
+	background-color: #4CAF50;
+	font-size : 14px;
+	border : 2px Solid Powderblue;
+	box-shadow : 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+	padding: 6px 18px;
+}
+#p02:hover {
+    background-color: Black;
+    color: white;
+}
+#p01:hover {
+    background-color: Black;
+    color: white;
+}
+#p05{
+	background-color: #4CAF50;
+	font-size : 14px;
+	border : 2px Solid Powderblue;
+	box-shadow : 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+	padding: 6px 18px;
+}
+#p05:hover {
+    background-color: Black;
+    color: white;
+}
+input[type=text] {
+    
+    background-color: white;
+    padding-left: 10px;
+    border: 2px solid green;
+    border-radius: 4px;
+}
+input[type=password]{
+	background-color: white;
+    padding-left: 10px;
+    border: 2px solid green;
+    border-radius: 4px;
+	
+}
